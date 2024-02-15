@@ -1,3 +1,4 @@
 nama    : ilhamsyah
 umur    : 23
 status  : fresh graduate
+domisi  : bekasi
